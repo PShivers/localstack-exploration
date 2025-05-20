@@ -1,1 +1,5 @@
 aws/
+dist/
+build/
+bin/
+obj/
